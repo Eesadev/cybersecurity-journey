@@ -1,4 +1,4 @@
-# Cybersecurity Journey 🔐
+# Cybersecurity Journey 
 
 ## About
 
